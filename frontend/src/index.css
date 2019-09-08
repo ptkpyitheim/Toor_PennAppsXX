@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: "SF Pro";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ant-modal-header, .ant-modal-footer {
+  border: none;
+  display: none
+}
+
+@font-face {
+  font-family: "SF Pro";
+  src: url('./assets/fonts/SF-Pro-Display-Medium.otf')
+}
+
+@font-face {
+  font-family: "SF Pro";
+  src: url('./assets/fonts/SF-Pro-Display-Semibold.otf');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "SF Pro";
+  src: url('./assets/fonts/SF-Pro-Display-Heavy.otf');
+  font-weight: 700;
+}
+
+.ant-select-search {
+  background-color: #F5F5F5;
+}
+
+button {
+  font-family: "SF Pro"
+}

@@ -1,0 +1,103 @@
+#campus {
+  font-size: 200%;
+  margin-top: 16px;
+}
+
+.prev {
+  position: absolute;
+  top: 80%;
+  left: 7%;
+}
+
+.next {
+  position: absolute;
+  top: 80%;
+  right: 7%;
+}
+
+.iconArrow {
+  position: relative;
+  margin-top: 20px;
+  margin-left: 12px;
+  font-size: 30px;
+}
+
+.mainTitle {
+  font-size: 32px;
+  font-weight: 700;
+  text-align: left;
+  margin-left: 24px;
+  line-height: 100%;
+  width: 80%;
+  margin-bottom: 4px;
+}
+
+.schoolTitle {
+  text-align: left;
+  margin-left: 40px;
+  margin-bottom: 0px;
+  font-family: "SF Pro";
+  font-weight: 500;
+  padding-top: 24px;
+}
+
+.audio-tour-container {
+  overflow-x: hidden;
+  overflow-y: hidden;
+
+ }
+
+.Title {
+  text-align: center;
+}
+
+.carousel-container {
+  text-align: center;
+  margin-top: 480px
+}
+.phone-container, .rate-container {
+  margin-left: 24px;
+}
+
+.carouselDiv {
+  margin-top: 500px;
+  left: 0;
+  right: 0;
+  margin-bottom: 32px;
+}
+
+.popover-description {
+  line-height: 20px;
+}
+
+.submit-phone-container {
+  text-align: center;
+}
+
+.left-arrow-container {
+  text-align: right;
+}
+
+.left-button {
+  margin-right: 16px;
+}
+
+.right-button {
+  margin-left: 16px;
+}
+
+.audio-tour-warning {
+  position: absolute;
+  margin-top: 500px;
+}
+
+.count {
+  font-family: "SF Pro";
+  font-weight: 700;
+  text-align: center;
+  font-size: 18px;
+}
+
+.stay-updated {
+  margin-top: 8px;
+}
